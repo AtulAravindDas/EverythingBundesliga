@@ -37,7 +37,7 @@ This repo is where tactics meet tech – from building expected goals (xG) model
 - Identified overachievers and underperformers
 - Includes visualizations for league progression and team stats
 
-📊 Notebook: `notebooks/bundesliga_2025_table_analysis.ipynb`
+📊 Notebook: `notebooks/BundesligaDashboard.ipynb`
 
 ---
 
