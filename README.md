@@ -14,9 +14,7 @@ This repo is where tactics meet tech – from building expected goals (xG) model
 |--------|------|
 | `data/` | All the raw and cleaned data – from Bundesliga stats to open shot data |
 | `notebooks/` | Tactical command center – contains all experiments and visual explorations |
-| `models/` | Trained ML models (e.g. xG, player clustering) |
 | `visuals/` | Shot maps, heatmaps, and more football-themed data art |
-| `utils/` | Helper functions for wrangling football data like a pro |
 
 ---
 
