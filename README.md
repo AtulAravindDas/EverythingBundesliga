@@ -1,9 +1,9 @@
-# ⚽ EverythingFootball
+# ⚽ EverythingBundesliga
 
 > When Bayern gets knocked out of the Club World Cup and Musiala gets injured, there's only one thing to do:  
 > open a Jupyter notebook and let the healing begin. 💻📉⚽
 
-**EverythingFootball** is a machine learning and data analysis playground focused on the beautiful game.  
+**EverythingBundesliga** is a machine learning and data analysis playground focused on the beautiful game.  
 This repo is where tactics meet tech – from building expected goals (xG) models to breaking down Bundesliga table drama like a football-obsessed data scientist.
 
 ---
