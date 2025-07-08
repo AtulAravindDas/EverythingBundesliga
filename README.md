@@ -93,7 +93,7 @@ This repo is where tactics meet tech – from building expected goals (xG) model
 
 ## 🙌 Contributions & Collabs
 
-Have a cool dataset? A spicier way to calculate xG? Just wanna rant about why Union Berlin finished above Dortmund again?
+Have a cool dataset? A spicier way to calculate xG? Just wanna rant about why Bayern München struggle in big games?
 
 Pull requests are welcome! Fork it, clone it, or start an Issue to suggest improvements, analysis ideas, or visuals.
 
